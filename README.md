@@ -1,13 +1,13 @@
 # Centralizlised Login Application
 
-#Tech:-]
+## Tech Used:-]
 
-#React Js
-#Oauth2.0
-#Bootstrap
-#Docker
-#Node Js
-#Express Js
+> React Js
+> Oauth2.0
+> Bootstrap
+> Docker
+> Node Js
+> Express Js
 
 
 #Create React App
