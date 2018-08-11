@@ -1,6 +1,6 @@
 # Centralizlised Login Application
 
-## Tech Used:-]
+## Tech Used:
 
 > React Js
 > Oauth2.0
@@ -10,4 +10,4 @@
 > Express Js
 
 
-#Create React App
+*Create React App
