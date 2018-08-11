@@ -1,2 +1,13 @@
-# Centralized-Login-App
-Application to Provide Centralized Login Built using React Js, Oauth 2.0, Node Js,Bootstrap,Docker
+Centralizlised Login Application
+
+Tech:-]
+
+#React Js
+#Oauth2.0
+#Bootstrap
+#Docker
+#Node Js
+#Express Js
+
+
+Create React App
